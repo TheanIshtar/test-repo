@@ -1,5 +1,5 @@
 | Tên thành viên                                              | Chức vụ                  | Sản phẩm nổi bật  |
-| ----------------------------------------------------------- | ---------------------- - | ----------------- |
+| ----------------------------------------------------------- | ------------------------ | ----------------- |
 | [Trần Hữu Đang](https://github.com/Theanishtar)             | Project Manager          | 2008              |
 | [Nguyễn Khánh Đan](https://github.com/nguyenkhanhdan)       | QA, QC, Tester           | 1996              |
 | [Đoàn Hiệp Sỹ](https://github.com/DoanSy166)                | Data Scentist            | 2001              |
